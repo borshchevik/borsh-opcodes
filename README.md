@@ -1,13 +1,13 @@
-# qtum-opcodes-js
-The QTUM opcodes map
+# borsh-opcodes-js
+The BORSH opcodes map
 
 ## Installation
 ``` bash
-npm install qtum-opcodes
+npm install borsh-opcodes
 ```
 
 ## Setup
 ### Node.js
 ``` javascript
-var ops = require('qtum-opcodes')
+var ops = require('borsh-opcodes')
 ```
