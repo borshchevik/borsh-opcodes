@@ -1,23 +1,23 @@
 {
-  "name": "qtum-opcodes",
+  "name": "borsh-opcodes",
   "version": "1.0.0",
-  "description": "The QTUM opcodes map",
+  "description": "The BORSH opcodes map",
   "main": "./index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qtumproject/qtum-opcodes-js.git"
+    "url": "git+https://github.com/borshchevik/borsh-opcodes-js.git"
   },
   "keywords": [
-    "qtum",
+    "borsh",
     "opcodes"
   ],
   "author": "Qtum Weiyu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/qtumproject/qtum-opcodes-js/issues"
+    "url": "https://github.com/borshchevik/borsh-opcodes-js/issues"
   },
-  "homepage": "https://github.com/qtumproject/qtum-opcodes-js#readme"
+  "homepage": "https://github.com/borshchevik/borsh-opcodes-js#readme"
 }
